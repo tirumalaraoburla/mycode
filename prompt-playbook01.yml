@@ -9,7 +9,7 @@
       ## do not reveal the password (optional)
       private: yes
       ## run this encryption method (optional)
-      encrypt: "sha512_crypt"
+      #encrypt: "sha512_crypt"
       ## type the password twice (optional)
       confirm: yes
       ## this is the size of the RAND you'd like to have generated (optional)
